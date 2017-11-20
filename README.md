@@ -16,5 +16,4 @@ Sure tag it :) I hope to continue this and make something out of this!
 Some of the code was pulled off from Mr.SonicMaster: github.com/MrSonicMaster.
 
 ## Author
-Prime
-iGaMe_Pro (possibly).
+Prime and iGaMe_Pro (possibly).
